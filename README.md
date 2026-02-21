@@ -160,3 +160,5 @@ Ya, **code duplication akan mengurangi kualitas kode** karena:
 - **Consistency**: setup yang seragam di semua test
 - **Easier Testing**: lebih mudah dan cepat menulis test baru
 
+
+Tes Push Module 2
